@@ -1,0 +1,140 @@
+body {
+    width: 100%;
+    margin: 0;
+}
+
+.container-one {
+    width: 500px;
+    height: 200px;
+    margin: auto;
+    text-align: center;
+}
+
+.Donate-Today {
+    font-size: 40px;
+}
+
+.Donate-Today-p {
+    font-size: 20px;
+    margin-top: -10px;
+}
+
+.container-two {
+    width: 150px;
+    height: 100px;
+    margin: auto;
+
+}
+
+.Main-TK {
+    display: flex;
+    margin-left: 180px;
+    margin-right: 180px;
+
+}
+
+.Tk {
+    padding-top: 5px;
+    margin-left: 32px;
+    font-size: xx-large;
+
+}
+
+.container-two-with-border {
+    background-color: rgb(255, 255, 255);
+    width: 150px;
+    height: 100px;
+    margin: auto;
+    border: 3px solid orange;
+    ;
+    border-radius: 5px;
+}
+
+.tk {
+    color: orange;
+}
+
+.food-for {
+    display: flex;
+    gap: 15px;
+    margin-left: 150px;
+}
+
+.food-for-family {
+    width: 280px;
+    height: 250px;
+    background-color: rgba(236, 222, 96, 0.393);
+    padding-left: 20px;
+    padding-top: 70px;
+    border-radius: 10px;
+}
+
+.Shelter-for-a-family {
+    width: 280px;
+    height: 250px;
+    background-color: rgba(82, 68, 151, 0.393);
+    padding-left: 20px;
+    padding-top: 70px;
+    border-radius: 10px;
+}
+
+.Education-for-a-child {
+    width: 280px;
+    height: 250px;
+    background-color: rgba(151, 68, 96, 0.393);
+    padding-left: 20px;
+    padding-top: 70px;
+    border-radius: 10px;
+}
+
+.footer {
+    background-color: black;
+    width: 100%;
+    height: 80%;
+}
+
+.footer-div {
+    color: aliceblue;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.donate-now-button {
+    text-decoration: none;
+    padding: 10px 40px;
+    color: rgb(255, 255, 255);
+    font-weight: 500px;
+    font-size: xx-large;
+    background-color: blue;
+    border-radius: 5px;
+}
+
+.input-item {
+    margin: auto;
+    margin-left: 40%;
+    margin-top: 50px;
+}
+
+.subcribe {
+    display: flex;
+    gap: 5px;
+    background-color: aqua;
+    margin-bottom: 10px;
+    width: 500px;
+    height: 250px;
+    margin-left: 30%;
+}
+
+.email {
+    width: 200px;
+    height: 50px;
+}
+
+.subcrive {
+    width: 200px;
+    height: 50px;
+    background-color: aliceblue;
+    padding-left: 90px;
+    padding-top: 20px;
+}
